@@ -1,0 +1,11 @@
+pyTelegramBotAPI
+requests
+flask
+aiohttp
+bs4
+tgcrypto
+pyrogram
+telebot
+qrcode
+pillow
+pyotp

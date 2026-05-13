@@ -1,6 +1,6 @@
 # ——————————————— TELEGRAM ———————————————
-BOT_TOKEN = "8791565201:AAHepdm5e8eyjmUpHJJ5OaLe4eHTOsO76nc"
-CHAT_ID   = "-1002745826680"
+BOT_TOKEN = "BOT_TOKEN"
+CHAT_ID   = "GROUP_ID"
 # ——————————————— API ———————————————
 API_URL = "http://147.135.212.197/crapi/s1t/viewstats"
 TOKEN   = "RlBYQjRSQmhzUXZZXGx1SWmElHiEU4hehpiDYHuPcHVJa2V6Qk6S"
